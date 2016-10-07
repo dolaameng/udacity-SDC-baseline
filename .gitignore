@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# data and model
+/dataset
+.hdf5
+.h5
